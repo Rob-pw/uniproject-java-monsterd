@@ -1,0 +1,4 @@
+points:2000
+hair:toooo
+face:ewrpoi
+type:ya
